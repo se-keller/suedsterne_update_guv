@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe37fd5-c0e1-4e24-afe9-1d690213163c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4YAH07xPao7cJb3sc52Zn76BH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe37fd5-c0e1-4e24-afe9-1d690213163c" name="Default Changelist" comment="" />
+      <created>1582203188129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582203188129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1125" y="156" key="SettingsEditor" timestamp="1582203638784">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1125" y="156" key="SettingsEditor/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582203638784" />
+    <state x="1281" y="289" width="670" height="676" key="search.everywhere.popup" timestamp="1582203755370">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1281" y="289" width="670" height="676" key="search.everywhere.popup/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582203755370" />
+  </component>
+</project>

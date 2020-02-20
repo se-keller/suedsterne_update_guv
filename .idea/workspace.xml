@@ -2,13 +2,14 @@
 <project version="4">
   <component name="AutoTestManager">
     <enabled-run-configurations>
-      <run-configuration type="tests" name="Unittests in test_foo.py" />
+      <run-configuration type="tests" name="Unittests in test_event_collection.py" />
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe37fd5-c0e1-4e24-afe9-1d690213163c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/test_event_collection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_foo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_foo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_foo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +44,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Unittests in test_foo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for test_event_collection.CalendarServiceTest.test_returns_empty_list_when_nothing_found">
+    <configuration name="Unittests for test_event_collection.CalendarServiceTest.test_returns_empty_list_when_nothing_found" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="suedsterne_update_guv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,13 +55,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_foo.py&quot;" />
+      <option name="_new_target" value="&quot;test_event_collection.CalendarServiceTest.test_returns_empty_list_when_nothing_found&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_event_collection.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="suedsterne_update_guv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_event_collection.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_foo.py" />
+        <item itemvalue="Python tests.Unittests in test_event_collection.py" />
+        <item itemvalue="Python tests.Unittests for test_event_collection.CalendarServiceTest.test_returns_empty_list_when_nothing_found" />
       </list>
     </recent_temporary>
   </component>
@@ -89,35 +105,59 @@
       <option name="project" value="LOCAL" />
       <updated>1582204254917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mapper for guv entries">
+      <created>1582205567302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582205567302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial setup" />
     <MESSAGE value="first test for calendar service" />
-    <option name="LAST_COMMIT_MESSAGE" value="first test for calendar service" />
+    <MESSAGE value="mapper for guv entries" />
+    <option name="LAST_COMMIT_MESSAGE" value="mapper for guv entries" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1208" y="120" key="CommitChangelistDialog2" timestamp="1582204254628">
+    <state x="1208" y="120" key="CommitChangelistDialog2" timestamp="1582205566969">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1208" y="120" key="CommitChangelistDialog2/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582204254628" />
-    <state width="1472" height="458" key="GridCell.Tab.0.bottom" timestamp="1582205555815">
+    <state x="1208" y="120" key="CommitChangelistDialog2/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582205566969" />
+    <state width="1472" height="370" key="GridCell.Tab.0.bottom" timestamp="1582210517310">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1472" height="458" key="GridCell.Tab.0.bottom/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582205555815" />
-    <state width="1472" height="458" key="GridCell.Tab.0.center" timestamp="1582205555814">
+    <state width="1472" height="370" key="GridCell.Tab.0.bottom/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517310" />
+    <state width="1472" height="370" key="GridCell.Tab.0.center" timestamp="1582210517308">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1472" height="458" key="GridCell.Tab.0.center/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582205555814" />
-    <state width="1472" height="458" key="GridCell.Tab.0.left" timestamp="1582205555813">
+    <state width="1472" height="370" key="GridCell.Tab.0.center/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517308" />
+    <state width="1472" height="370" key="GridCell.Tab.0.left" timestamp="1582210517307">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1472" height="458" key="GridCell.Tab.0.left/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582205555813" />
-    <state width="1472" height="458" key="GridCell.Tab.0.right" timestamp="1582205555814">
+    <state width="1472" height="370" key="GridCell.Tab.0.left/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517307" />
+    <state width="1472" height="370" key="GridCell.Tab.0.right" timestamp="1582210517309">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1472" height="458" key="GridCell.Tab.0.right/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582205555814" />
+    <state width="1472" height="370" key="GridCell.Tab.0.right/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517309" />
+    <state width="1472" height="370" key="GridCell.Tab.1.bottom" timestamp="1582210517314">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="370" key="GridCell.Tab.1.bottom/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517314" />
+    <state width="1472" height="370" key="GridCell.Tab.1.center" timestamp="1582210517312">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="370" key="GridCell.Tab.1.center/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517312" />
+    <state width="1472" height="370" key="GridCell.Tab.1.left" timestamp="1582210517311">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="370" key="GridCell.Tab.1.left/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517311" />
+    <state width="1472" height="370" key="GridCell.Tab.1.right" timestamp="1582210517313">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="370" key="GridCell.Tab.1.right/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582210517313" />
     <state x="1125" y="156" key="SettingsEditor" timestamp="1582204791516">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

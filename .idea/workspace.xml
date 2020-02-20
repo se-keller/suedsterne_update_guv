@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbe37fd5-c0e1-4e24-afe9-1d690213163c" name="Default Changelist" comment="" />
+    <list default="true" id="bbe37fd5-c0e1-4e24-afe9-1d690213163c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_foo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_foo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +38,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunManager">
+    <configuration name="Unittests in test_foo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="suedsterne_update_guv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_foo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_foo.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,13 +70,53 @@
       <option name="presentableId" value="Default" />
       <updated>1582203188129</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial setup">
+      <created>1582203817331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582203817332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial setup" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1208" y="120" key="CommitChangelistDialog2" timestamp="1582203817139">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1208" y="120" key="CommitChangelistDialog2/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582203817139" />
+    <state width="1472" height="458" key="GridCell.Tab.0.bottom" timestamp="1582204229775">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="458" key="GridCell.Tab.0.bottom/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582204229775" />
+    <state width="1472" height="458" key="GridCell.Tab.0.center" timestamp="1582204229774">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="458" key="GridCell.Tab.0.center/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582204229774" />
+    <state width="1472" height="458" key="GridCell.Tab.0.left" timestamp="1582204229773">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="458" key="GridCell.Tab.0.left/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582204229773" />
+    <state width="1472" height="458" key="GridCell.Tab.0.right" timestamp="1582204229774">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1472" height="458" key="GridCell.Tab.0.right/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582204229774" />
     <state x="1125" y="156" key="SettingsEditor" timestamp="1582203638784">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1125" y="156" key="SettingsEditor/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582203638784" />
+    <state x="1216" y="257" key="Vcs.Push.Dialog.v2" timestamp="1582203825742">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1216" y="257" key="Vcs.Push.Dialog.v2/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582203825742" />
+    <state x="1225" y="105" width="782" height="825" key="find.popup" timestamp="1582203964834">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1225" y="105" width="782" height="825" key="find.popup/501.1463.1440.797/0.23.2560.1417@0.23.2560.1417" timestamp="1582203964834" />
     <state x="1281" y="289" width="670" height="676" key="search.everywhere.popup" timestamp="1582203755370">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
